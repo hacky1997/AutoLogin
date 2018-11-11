@@ -60,9 +60,9 @@ url = int(input("Enter your choice : "))
 # # drive = input("Choose your browser : ")
 
 # # if drive == a :
-# #     browser = webdriver.Chrome("C:/Users/sayak/Downloads/chromedriver")
+# #     browser = webdriver.Chrome("")
 # # elif drive == b:
-# #     browser = webdriver.firefox("C:/Users/sayak/Downloads/chromedriver")
+# #     browser = webdriver.firefox("")
 
 if url == 1:
     # def Facebook(uname,pwrd):
@@ -70,7 +70,7 @@ if url == 1:
     pwrd = getpass("password  : ")
 
 
-    browser = webdriver.Chrome("C:/Users/sayak/Downloads/chromedriver")
+    browser = webdriver.Chrome("set the path where you have download your driver")
     url = "https://www.facebook.com"
     browser.get(str(url))
 
@@ -94,7 +94,7 @@ elif url == 2:
     pwrd = getpass("password  : ")
 
     # def Gmail(uname,pwrd):
-    browser = webdriver.Chrome("C:/Users/sayak/Downloads/chromedriver")
+    browser = webdriver.Chrome("set the path where you have download your driver")
     url = "https://www.gmail.com"
     browser.get(str(url))
 
@@ -117,7 +117,7 @@ elif url == 3:
     uname = input("user name : ")
     pwrd = getpass("password  : ")
 
-    browser = webdriver.Chrome("C:/Users/sayak/Downloads/chromedriver")
+    browser = webdriver.Chrome("set the path where you have download your driver")
     url = "https://github.com/login?return_to=%2Fjoin%3Fsource%3Dheader-home"
     browser.get(str(url))
 
@@ -133,7 +133,7 @@ elif url == 4:
     uname = input("user name : ")
     pwrd = getpass("password  : ")
 
-    browser = webdriver.Chrome("C:/Users/sayak/Downloads/chromedriver")
+    browser = webdriver.Chrome("set the path where you have download your driver")
     url = "https://twitter.com/login?lang=en"
     browser.get(str(url))
 
@@ -151,7 +151,7 @@ elif url == 5:
     uname = input("user name : ")
     pwrd = getpass("password  : ")
 
-    browser = webdriver.Chrome("C:/Users/sayak/Downloads/chromedriver")
+    browser = webdriver.Chrome("set the path where you have download your driver")
     url = "https://login.yahoo.com/?.src=ym&.partner=none&.lang=en-IN&.intl=in&.done=https%3A%2F%2Fmail.yahoo.com%2Fd%3F.intl%3Din%26.lang%3Den-IN%26.partner%3Dnone%26.src%3Dfp"
     browser.get(str(url))
 
@@ -169,7 +169,7 @@ elif url == 6:
     uname = input("user name : ")
     pwrd = getpass("password  : ")
 
-    browser = webdriver.Chrome("C:/Users/sayak/Downloads/chromedriver")
+    browser = webdriver.Chrome("set the path where you have download your driver")
     url = "https://in.linkedin.com/"
     browser.get(str(url))
 
@@ -184,7 +184,7 @@ elif url == 7:
     uname = input("user name : ")
     pwrd = getpass("password  : ")
 
-    browser = webdriver.Chrome("C:/Users/sayak/Downloads/chromedriver")
+    browser = webdriver.Chrome("set the path where you have download your driver")
     url = "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1541937569&rver=7.0.6737.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fnlp%3d1%26RpsCsrfState%3da4f676f3-a503-3fcc-5e32-f5b507c846d2&id=292841&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=90015"
     browser.get(str(url))
 
@@ -202,7 +202,7 @@ elif url == 8:
     uname = input("user name : ")
     pwrd = getpass("password  : ")
 
-    browser = webdriver.Chrome("C:/Users/sayak/Downloads/chromedriver")
+    browser = webdriver.Chrome("set the path where you have download your driver")
     url = "https://www.instagram.com/accounts/login/"
     browser.get(str(url))
 
