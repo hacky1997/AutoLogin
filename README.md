@@ -19,7 +19,8 @@ Which one you want to login :   1. Facebook.
                                 6. Linkedin.
                                 7. Microsoft.
                                 8. Instagram.
-                                9. Exit.
+
+
 Enter your choice :
 
 
