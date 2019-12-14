@@ -14,7 +14,7 @@ This is python-based simple auto login script. Using this script anyone can auto
                                 ~~~~~~~~~~ Created by Sayak Naskar ~~~~~~~~~~
 
 ## Driver Installation
-* Just you have to download your webdriver package. Here is the link = [driver](https://chromedriver.storage.googleapis.com/index.html?path=2.38/)
+* Just you have to download your [webdriver](https://chromedriver.storage.googleapis.com/index.html?path=2.38/) package.
 
 ## Installation
 `pip install -r requirements.txt`
