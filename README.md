@@ -1,4 +1,7 @@
 # AutoLogin
+**Free, Open-Source Auto Login System for lazy guys**
+
+## About
 This is python-based simple auto login script. Using this script anyone can automatically login to their account. Just have to put username and password and other things will done automatically.
 
                                    _         _        _                _
@@ -10,20 +13,30 @@ This is python-based simple auto login script. Using this script anyone can auto
 
                                 ~~~~~~~~~~ Created by Sayak Naskar ~~~~~~~~~~
 
+## Driver Installation
+* Just you have to download your webdriver package. Here is the link = [driver](https://chromedriver.storage.googleapis.com/index.html?path=2.38/)
 
-Which one you want to login :   1. Facebook.
-                                2. Gmail.
-                                3. Github.
-                                4. Twitter.
-                                5. Yahoo.
-                                6. Linkedin.
-                                7. Microsoft.
-                                8. Instagram.
+## Installation
+`pip install -r requirements.txt`
 
+## Features
+* Facebook. 
+* Gmail. 
+* Github. 
+* Twitter. 
+* Yahoo. 
+* Linkedin. 
+* Microsoft. 
+* Instagram.
 
-Enter your choice :
+## Usage
+`python3 autologin.py`
 
-
-
-Just you have to download your webdriver package. 
-here is the link = "https://chromedriver.storage.googleapis.com/index.html?path=2.38/"
+## Warning
+ This is a **personal** development, please respect its philosophy.
+ 
+## Contribution
+   Feel free to open issues or PRs for any problem you may encounter, typos that you see or aspects that are confusing. Contributions are welcome, open an issue or email me if you have something you want to work on.
+ 
+## Thank you!
+Thanks for using this project!
