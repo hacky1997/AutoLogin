@@ -17,7 +17,7 @@ This is python-based simple auto login script. Using this script anyone can auto
 * Just you have to download your [webdriver](https://chromedriver.storage.googleapis.com/index.html?path=2.38/) package.
 
 ## Installation
-`pip install -r requirements.txt`
+`python3 -m pip install -r requirements.txt`
 
 ## Features
 * Facebook. 
